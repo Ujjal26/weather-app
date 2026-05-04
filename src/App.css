@@ -30,7 +30,7 @@ body {
 }
 
 footer {
-  position: fixed;
+  position: sticky;
   bottom: -16px;
   text-align: center;
 }
