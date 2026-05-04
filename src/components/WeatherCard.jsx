@@ -29,4 +29,4 @@ const Weathercard = ({ data }) => {
   )
 }
 
-export default Weathercard
+export default Weathercard;
