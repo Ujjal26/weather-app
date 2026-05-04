@@ -1,10 +1,10 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from 'react'
-import Headers from './components/header'
-import Search from './components/search'
-import Weathercard from './components/Weathercard'
-import Footer from './components/Footer'
-import './app.css'
+import Headers from '../components/header'
+import Search from '../components/search'
+import Weathercard from '../components/Weathercard'
+import Footer from '../components/Footer'
+import '../app.css'
 
 const App = () => {
   const [weatherDetails, setWeatherDetails] = useState(null);
